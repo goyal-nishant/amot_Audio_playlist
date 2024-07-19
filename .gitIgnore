@@ -1,0 +1,72 @@
+# Wordpress - ignore core, configuration, examples, uploads and logs.
+# https://github.com/github/gitignore/blob/main/WordPress.gitignore
+
+# Core
+#
+# Note: if you want to stage/commit WP core files
+# you can delete this whole section/until Configuration.
+/wp-admin/
+/wp-content/index.php
+/wp-content/languages
+/wp-content/plugins/
+/wp-content/mu-plugins/
+/wp-content/backups-dup-lite
+/wp-content/wp-rocket-config
+/wp-content/wflogs
+/wp-content/advanced-cache.php
+/wp-content/wp-defender-secrets.php
+/wp-content/themes/unicon
+/wp-content/themes/uniconchildtheme/framework
+/wp-content/themes/uniconchildtheme/js
+/wp-content/themes/uniconchildtheme/vendor
+/wp-content/themes/uniconchildtheme/composer.json
+/wp-content/themes/uniconchildtheme/composer.lock
+/wp-content/themes/uniconchildtheme/functions.php@old
+/wp-content/themes/uniconchildtheme/screenshot.png
+/wp-content/themes/uniconchildtheme/style.css
+/wp-content/themes/uniconchildtheme/unicon-custom.css
+/wp-content/themes/index.php
+/wp-includes/
+/index.php
+/license.txt
+/readme.html
+/wp-*.php
+/xmlrpc.php
+/.tmb
+/.vscode
+/.well-known
+/adminer.sql
+/adminera.php
+/readme.b77c65760bb5dc4660b82f4676b77ccf.html
+/wordfence-waf.php
+/nginx.conf
+
+# Configuration
+wp-config.php
+
+# Example themes
+/wp-content/themes/twenty*/
+
+# Example plugin
+/wp-content/plugins/hello.php
+
+# Uploads
+/wp-content/uploads/
+
+# Log files
+*.log
+
+# htaccess
+/.htaccess
+
+# All plugins
+#
+# Note: If you wish to whitelist plugins,
+# uncomment the next line
+#/wp-content/plugins
+
+# All themes
+#
+# Note: If you wish to whitelist themes,
+# uncomment the next line
+#/wp-content/themes
