@@ -80,7 +80,10 @@ function splitProducts()
         usort($tracks, function ($a, $b) {
             return strcmp($a['name'], $b['name']);
         });
+   
 
+
+        
 
         foreach ($ranges as $range) {
             $playlist = get_page_by_title("{$category} {$range}", OBJECT, 'bb_playlist_player');
