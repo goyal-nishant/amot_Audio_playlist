@@ -1,0 +1,50 @@
+[20 Jul 2024 05:47:45] Start Import
+[20 Jul 2024 05:47:45] Processing Category: Al-Anon Speaker Singles
+[20 Jul 2024 05:47:55] Start Import
+[20 Jul 2024 05:47:55] Processing Category: Al-Anon Speaker Singles
+[20 Jul 2024 05:49:33] Found Products1222
+[20 Jul 2024 05:49:33] Found Products1222
+[20 Jul 2024 05:49:34] Filter Products for range: A-D:381
+[20 Jul 2024 05:49:34] Filter Products for range: A-D:381
+[20 Jul 2024 05:49:34] Store completed successfully
+[20 Jul 2024 05:49:34] Filter Products for range: E-H:93
+[20 Jul 2024 05:49:34] Store completed successfully
+[20 Jul 2024 05:49:34] Filter Products for range: I-L:320
+[20 Jul 2024 05:49:34] Filter Products for range: I-L:320
+[20 Jul 2024 05:49:34] Store completed successfully
+[20 Jul 2024 05:49:34] Filter Products for range: M-P:170
+[20 Jul 2024 05:49:34] Store completed successfully
+[20 Jul 2024 05:49:34] Filter Products for range: Q-T:215
+[20 Jul 2024 05:49:34] Filter Products for range: Q-T:215
+[20 Jul 2024 05:49:34] Store completed successfully
+[20 Jul 2024 05:49:34] Store completed successfully
+[20 Jul 2024 05:49:34] Filter Products for range: U-Z:42
+[20 Jul 2024 05:49:34] Filter Products for range: U-Z:42
+[20 Jul 2024 05:49:34] Store completed successfully
+[20 Jul 2024 05:49:34] Store completed successfully
+[20 Jul 2024 05:49:34] Completed
+
+
+[20 Jul 2024 05:49:34] Completed
+
+
+[20 Jul 2024 05:50:19] Start Import
+[20 Jul 2024 05:50:19] Processing Category: Al-Anon Speaker Singles
+[20 Jul 2024 05:51:48] Found Products1222
+[20 Jul 2024 05:51:49] Filter Products for range: A-D:381
+[20 Jul 2024 05:51:49] Store completed successfully
+[20 Jul 2024 05:51:49] Filter Products for range: E-H:93
+[20 Jul 2024 05:51:49] Store completed successfully
+[20 Jul 2024 05:51:49] Filter Products for range: I-L:320
+[20 Jul 2024 05:51:49] Store completed successfully
+[20 Jul 2024 05:51:49] Filter Products for range: M-P:170
+[20 Jul 2024 05:51:50] Store completed successfully
+[20 Jul 2024 05:51:50] Filter Products for range: Q-T:215
+[20 Jul 2024 05:51:50] Store completed successfully
+[20 Jul 2024 05:51:50] Filter Products for range: U-Z:42
+[20 Jul 2024 05:51:50] Store completed successfully
+[20 Jul 2024 05:51:50] Completed
+
+
+[20 Jul 2024 05:52:22] Start Import
+[20 Jul 2024 05:52:22] Processing Category: AA Speaker Singles

@@ -10,22 +10,22 @@ function splitProducts()
 {
     logError("Start Import");
     $categories = array(
-        // 'AA Speaker Singles' => array(
-        //     'A-D',
-        //     'E-H',
-        //     'I-L',
-        //     'M-P',
-        //     'Q-T',
-        //     'U-Z'
-        // ),
-        'Al-Anon Speaker Singles' => array(
+        'AA Speaker Singles' => array(
             'A-D',
             'E-H',
             'I-L',
             'M-P',
             'Q-T',
             'U-Z'
-        )
+        ),
+        // 'Al-Anon Speaker Singles' => array(
+        //     'A-D',
+        //     'E-H',
+        //     'I-L',
+        //     'M-P',
+        //     'Q-T',
+        //     'U-Z'
+        // )
     );
 
     foreach ($categories as $category => $ranges) {
